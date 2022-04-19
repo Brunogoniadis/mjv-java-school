@@ -1,5 +1,5 @@
 Aula 12/04/2022
 
-Maven organiza nosso projeto de forma otimizada
+Maven organiza nosso projeto de forma otimizada.
 
 Usado na automação e gerenciamentos nos projetos java, mas também pode ser usado em outras linguagens.
